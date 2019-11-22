@@ -1,0 +1,2 @@
+# SchoolService
+School service CRUD
